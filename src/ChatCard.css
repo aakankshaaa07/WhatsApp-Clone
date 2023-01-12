@@ -1,0 +1,37 @@
+.chatcard {
+  display: flex;
+  align-items: center;
+  padding: 10px 15px;
+  cursor: pointer;
+  border-bottom: 1px solid #5c5c5c;
+}
+
+.chatcard:hover {
+  background-color: #2A3942;
+}
+
+.chat-info {
+  margin-left: 15px;
+  color: #D3D3D3;
+  flex: 1;
+}
+
+.info-top {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.name {
+  display: flex;
+  font-size: 20px;
+  margin-bottom: 3px;
+}
+
+.time {
+  font-weight: 300;
+}
+
+.last-message {
+  font-weight: 400;
+}

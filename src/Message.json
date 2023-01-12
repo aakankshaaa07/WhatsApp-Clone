@@ -1,0 +1,121 @@
+[
+  {
+      "id": 1,
+      "sender": "Yashwanth Reddy",
+      "text": "bro do you want to watch a movie?",
+      "sentbyUser": false,
+      "time": "22:00"
+    },
+    {
+      "id": 2,
+      "sender": "Yashwanth Reddy",
+      "text": "we haven't seen in a long time",
+      "sentbyUser": false,
+      "time": "22:00"
+    },
+    {
+      "id": 3,
+      "sender": "Aakanksha Mantri",
+      "text": "around 11 works kya?",
+      "sentbyUser": true,
+      "time": "22:05"
+    },
+    {
+      "id": 4,
+      "sender": "Yashwanth Reddy",
+      "text": "Coooooool!",
+      "sentbyUser": false,
+      "time": "22:05"
+    },
+    {
+      "id": 5,
+      "sender": "Aakanksha Mantri",
+      "text": "what do you wanna watch?",
+      "sentbyUser": true,
+      "time": "22:06"
+    },
+    {
+      "id": 6,
+      "sender": "Aakanksha Mantri",
+      "text": "wanna see a murder mystery",
+      "sentbyUser": true,
+      "time": "22:06"
+    },
+    {
+      "id": 7,
+      "sender": "Aakanksha Mantri",
+      "text": "but i saw almost all",
+      "sentbyUser": true,
+      "time": "22:07"
+    },
+    {
+      "id": 8,
+      "sender": "Yashwanth Reddy",
+      "text": "I will find, you don't worry",
+      "sentbyUser": false,
+      "time": "22:10"
+    },
+    {
+      "id": 9,
+      "sender": "Aakanksha Mantri",
+      "text": "okay, i will text you once i am done with work!",
+      "sentbyUser": true,
+      "time": "22:11"
+    },
+    {
+      "id": 10,
+      "sender": "Yashwanth Reddy",
+      "text": "finish fast! so we can see movie",
+      "sentbyUser": false,
+      "time": "22:15"
+    },
+    {
+      "id": 11,
+      "sender": "Aakanksha Mantri",
+      "text": "cool, bye!",
+      "sentbyUser": true,
+      "time": "22:15"
+    },
+    {
+      "id": 12,
+      "sender": "Yashwanth Reddy",
+      "text": "are you done",
+      "sentbyUser": false,
+      "time": "23:03"
+    },
+    {
+      "id": 13,
+      "sender": "Aakanksha Mantri",
+      "text": "bro this is taking long, 12:30 will you be up?",
+      "sentbyUser": true,
+      "time": "23:23"
+    },
+    {
+      "id": 14,
+      "sender": "Yashwanth Reddy",
+      "text": "cool, i will pack my bags for banagalore then",
+      "sentbyUser": false,
+      "time": "23:47"
+    },
+    {
+      "id": 15,
+      "sender": "Aakanksha Mantri",
+      "text": "okay, sorry for the delay",
+      "sentbyUser": true,
+      "time": "23:55"
+    },
+    {
+      "id": 16,
+      "sender": "Aakanksha Mantri",
+      "text": "oi! i am done finallllly!",
+      "sentbyUser": true,
+      "time": "00:33"
+    },
+    {
+      "id": 17,
+      "sender": "Aakanksha Mantri",
+      "text": "let me know when you're done",
+      "sentbyUser": true,
+      "time": "00:34"
+    }
+]

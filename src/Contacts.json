@@ -1,0 +1,64 @@
+[
+  {
+      "id": 1,
+      "name": "Yashwanth Reddy",
+      "profilePic": "/assets/yashwanth.png",
+      "lastText": "☑️let me know when you're done",
+      "timeStamp": "00:34"
+    },
+    {
+      "id": 2,
+      "name": "Shubh Jain",
+      "lastText": "Going to sleep",
+      "timeStamp": "23:45"
+    },
+    {
+      "id": 3,
+      "name": "don't do nashe",
+      "profilePic": "/assets/dontdonashe.png",
+      "lastText": "Numa: Aakanksha is good",
+      "timeStamp": "23:39"
+    },
+    {
+      "id": 4,
+      "name": "Tiasa Singha Roy",
+      "profilePic": "/assets/tiasa.png",
+      "lastText": "Among Us?",
+      "timeStamp": "22:15"
+    },
+    {
+      "id": 5,
+      "name": "Kshitij Narasimhan",
+      "profilePic": "/assets/kshitij.png",
+      "lastText": "✅Nice only",
+      "timeStamp": "22:03"
+    },
+    {
+      "id": 6,
+      "name": "MIT ECE'23",
+      "profilePic": "/assets/mitece.png",
+      "lastText": "Arinjay: 11th Jan",
+      "timeStamp": "21:46"
+    },
+    {
+      "id": 7,
+      "name": "Saharsh Narayan",
+      "profilePic": "/assets/saharsh.png",
+      "lastText": "✅Mango",
+      "timeStamp": "21:29"
+    },
+    {
+      "id": 8,
+      "name": "Haaris Khalil",
+      "profilePic": "/assets/haaris.png",
+      "lastText": "MYSQL",
+      "timeStamp": "20:54"
+    },
+    {
+      "id": 9,
+      "name": "Anushka Prasad",
+      "profilePic": "/assets/anushka.png",
+      "lastText": "Come blr",
+      "timeStamp": "19:18"
+    }
+]
